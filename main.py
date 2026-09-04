@@ -1,5 +1,6 @@
 from utils.file_utils import UTILS_CONST,file_util_foo
 from utils.api_utils import api_util_foo
+import utils
 
 from dotenv import load_dotenv
 import os 
