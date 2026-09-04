@@ -40,7 +40,7 @@ print(POLZA_API_KEY, IS_READY)
 def main():
     file_util_foo(UTILS_CONST)
     api_util_foo("привет")
-    print("Сейчас будет проверка выхода из скрипта...")
+    print("Сейчас будет проверка выхода...")
     input("Нажмите Enter для выхода")
 
 if __name__ == "__main__":
